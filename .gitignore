@@ -1,0 +1,4 @@
+similarity.pkl
+*.pkl
+.venv/
+__pycache__/
